@@ -28,7 +28,7 @@ hideInToc: true
 
 - 👋 我是许作栋
 - 2018 教育技术研究生，2020 年毕业
-- 2020 年 7 月开始以<span v-mark.red.circle="0">写前端</span>作为职业至今
+- 2020 年 7 月开始以<span v-mark.red.circle>写前端</span>作为职业至今
 - 目前在一家杭州的生物信息小公司，任职 2 年
 - [xzd.me](https://www.xzd.me)
 
@@ -45,17 +45,30 @@ hideInToc: true
 <Toc minDepth="1" maxDepth="2"></Toc>
 
 ---
+layout: two-cols
+---
 
-# 科技公司对毕业生的技能需求
+# 科技企业中, 一款产品是如何被开发出来的?
 
-<Toc minDepth="2" maxDepth="2"></Toc>
+- 产品经理 - 原型设计
+- 交互设计(UI/UX) - UI 图设计
+- 程序员 - 开发
+  - 前端(客户端,代码一般运行在用户的设备上)
+  - 后端(服务器端)
+- 测试 - 基于需求进行测试
+- 运维 - 部署项目
+
+::right::
+
+<div class="flex justify-end items-center">
+  <img src="images/1.JPG" width="65%" class="self-end"/>
+</div>
 
 ---
 level: 2
 ---
 
-
-# 前端（用户的设备）技术
+# 前端技术
 
 - web：HTML, CSS, JavaScript, 以及像React.js或Vue.js这样的框架
 - iOS、安卓：原生开发（Swift、Kotlin语言）、跨端方案（React Native、Electron、Flutter）
@@ -66,8 +79,7 @@ level: 2
 level: 2
 ---
 
-
-# 后端（服务器）技术
+# 后端技术
 
 - web 应用：为前端提供数据支持，推荐学习的编程语言（JavaScript、Go、Java、Rust 等）
 - 数据库技能：了解如何使用和管理SQL（如PostgreSQL）、NoSQL（如MongoDB）、KV（如Redis）数据库
