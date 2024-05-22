@@ -61,7 +61,7 @@ layout: two-cols
 ::right::
 
 <div class="flex justify-end items-center">
-  <img src="images/1.JPG" width="65%" class="self-end"/>
+  <img src="/images/1.jpg" width="65%" class="self-end"/>
 </div>
 
 ---
