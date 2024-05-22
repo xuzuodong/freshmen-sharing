@@ -107,8 +107,6 @@ level: 2
   - github 
     - 逛几个开源项目：丑丑头像生成器、Henry Heffernan 的个人网站、shadcn-ui UI 库、LibreChat 大模型第三方应用
     - 使用Github记录和展示个人项目
-  - 中推圈的技术分享博主 @dotey @ccbikai @pengchujin @hitw93
-
 ---
 
 # 结语
