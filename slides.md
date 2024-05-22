@@ -113,3 +113,5 @@ level: 2
 # 结语
 
 - 写代码是可以持续一生的事业和爱好
+- [Tania Rascia](https://github.com/taniarascia)
+- [Nestor Vera](https://github.com/hacknug)
