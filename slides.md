@@ -93,7 +93,7 @@ level: 2
 - 基础的网络知识：理解用户手上的设备是如何通过 HTTP 协议与服务器（后端）通信的。
 - 基础的 Linux 能力（推荐大家可以买个腾讯云/阿里云的日本或新加坡轻量应用服务器，在上面部署点服务，没事干可以连着玩）；Docker 容器
 - 程序员素养：开源社区深度参与、解决问题的能力、问题排查能力、团队合作、沟通
-- 拥抱大模型：官方应用（ChatGPT、Kimi、Gemeni 等）；第三方应用（LibreChat、Open WebUI、ChatGPT Next Web 等，自己构建、部署、魔改）；
+- 拥抱大模型：官方应用（ChatGPT、Kimi、Gemeni 等）；第三方套壳应用（LibreChat、Open WebUI、ChatGPT Next Web 等，自己构建、部署、魔改）；开源大模型（LLama 3，自己部署）；
 - 标记语言 Markdown
 - 英语
 
