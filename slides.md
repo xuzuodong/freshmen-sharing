@@ -105,7 +105,7 @@ level: 2
 - 参加比赛！加入或发起项目，提高实战经验
 - 多逛社区：
   - github 
-    - 逛几个开源项目：丑丑头像生成器、Henry Heffernan 的个人网站、shadcn-ui UI 库、LibreChat 大模型第三方应用
+    - 逛几个开源项目：[丑丑头像生成器](https://github.com/txstc55/ugly-avatar)、[Henry Heffernan 的个人网站](https://github.com/henryjeff/portfolio-website)、[shadcn-ui UI 库](https://github.com/shadcn-ui/ui)、[LibreChat 大模型第三方应用](https://github.com/danny-avila/LibreChat)
     - 使用Github记录和展示个人项目
 ---
 
